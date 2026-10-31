@@ -1,0 +1,87 @@
+
+[
+  {
+    "id": 101,
+    "title": "Add dark mode support",
+    "repository": "openquest/demo-ui",
+    "owner": "openquest",
+    "description": "Add a dark mode toggle to improve accessibility and user experience. Users should be able to switch between light and dark themes.",
+    "language": "JavaScript",
+    "difficulty": "Beginner",
+    "type": "Feature",
+    "labels": ["good first issue", "enhancement"],
+    "stars": null,
+    "url": "",
+    "skills": ["React", "CSS"]
+  },
+  {
+    "id": 102,
+    "title": "Fix incorrect error message",
+    "repository": "openquest/python-demo",
+    "owner": "openquest",
+    "description": "Update the error message displayed when invalid input is provided. The message should explain what went wrong and how to fix it.",
+    "language": "Python",
+    "difficulty": "Beginner",
+    "type": "Bug",
+    "labels": ["bug", "good first issue"],
+    "stars": null,
+    "url": "",
+    "skills": ["Python", "Debugging"]
+  },
+  {
+    "id": 103,
+    "title": "Improve API documentation",
+    "repository": "openquest/api-docs",
+    "owner": "openquest",
+    "description": "Add examples explaining how to use the project's API. Include request parameters and sample responses.",
+    "language": "Python",
+    "difficulty": "Beginner",
+    "type": "Documentation",
+    "labels": ["documentation"],
+    "stars": null,
+    "url": "",
+    "skills": ["Python", "Markdown"]
+  },
+  {
+    "id": 104,
+    "title": "Add loading animation",
+    "repository": "openquest/web-app",
+    "owner": "openquest",
+    "description": "Create a reusable loading animation component that appears while API requests are processing.",
+    "language": "React",
+    "difficulty": "Intermediate",
+    "type": "Feature",
+    "labels": ["enhancement", "ui"],
+    "stars": null,
+    "url": "",
+    "skills": ["React", "CSS"]
+  },
+  {
+    "id": 105,
+    "title": "Fix mobile navigation layout",
+    "repository": "openquest/responsive-ui",
+    "owner": "openquest",
+    "description": "The navigation menu overlaps the content on small screens. Improve the responsive layout.",
+    "language": "CSS",
+    "difficulty": "Beginner",
+    "type": "Bug",
+    "labels": ["good first issue", "responsive"],
+    "stars": null,
+    "url": "",
+    "skills": ["CSS", "Responsive Design"]
+  },
+  {
+    "id": 106,
+    "title": "Add input validation",
+    "repository": "openquest/form-validator",
+    "owner": "openquest",
+    "description": "Validate user input and display helpful messages when required fields are missing.",
+    "language": "JavaScript",
+    "difficulty": "Intermediate",
+    "type": "Feature",
+    "labels": ["enhancement"],
+    "stars": null,
+    "url": "",
+    "skills": ["JavaScript", "Validation"]
+  }
+]
