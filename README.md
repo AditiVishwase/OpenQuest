@@ -187,14 +187,6 @@ Example:
 ![OpenQuest Home Page](docs/home-page.png)
 ```
 
-## 🔮 Future Enhancements
-
-- [ ] Live GitHub API integration.
-- [ ] AI-powered issue explanations using Gemma 4.
-- [ ] Personalized issue recommendations.
-- [ ] User accounts and cloud-based bookmarks.
-- [ ] Contribution progress tracking.
-- [ ] More programming languages and issue categories.
 
 ## 🤝 Contributing
 
